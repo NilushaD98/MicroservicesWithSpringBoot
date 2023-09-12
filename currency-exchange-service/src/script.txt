@@ -1,0 +1,6 @@
+insert into currency_exchange(id,currency_form,currency_to,conversion_Multiple,environment) values(1001,'USD','INR',65,'');
+insert into currency_exchange(id,currency_form,currency_to,conversion_Multiple,environment) values(1002,'USD','LKR',62,'');
+insert into currency_exchange(id,currency_form,currency_to,conversion_Multiple,environment) values(1003,'USD','EURO',63,'');
+insert into currency_exchange(id,currency_form,currency_to,conversion_Multiple,environment) values(1004,'USD','POUND',61,'');
+insert into currency_exchange(id,currency_form,currency_to,conversion_Multiple,environment) values(1005,'USD','YEN',66,'');
+insert into currency_exchange(id,currency_form,currency_to,conversion_Multiple,environment) values(1006,'USD','RIAL',67,'');
